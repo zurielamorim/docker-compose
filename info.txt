@@ -12,3 +12,6 @@ Alterasr os cambos:
 docker-compose up -d
 docker ps
 
+
+
+URL icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/WireGuardEasy/icon.png

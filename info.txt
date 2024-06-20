@@ -1,0 +1,14 @@
+mkdir wg-easy
+cd wg-easy
+nano docker-compose.yml
+
+
+Alterasr os cambos:
+
+      PASSWORD: 'casaos'
+      WG_HOST: 'casaos.local'
+
+
+docker-compose up -d
+docker ps
+
